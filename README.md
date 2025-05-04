@@ -51,7 +51,7 @@ CatchIt! is a sophisticated security scanning service that provides real-time an
 1. Clone the repository:
 
 ```bash
-[git clone https://github.com/yourusername/catchit.git](https://github.com/Yen-hub/catchit-backend)
+git clone https://github.com/Yen-hub/CATCHit-backend-updated
 cd catchit-backend
 ```
 
