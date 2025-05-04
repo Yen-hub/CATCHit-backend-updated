@@ -52,7 +52,7 @@ CatchIt! is a sophisticated security scanning service that provides real-time an
 
 ```bash
 git clone https://github.com/Yen-hub/CATCHit-backend-updated
-cd catchit-backend
+cd CATCHit-backend-updated
 ```
 
 2. Create and activate a virtual environment:
